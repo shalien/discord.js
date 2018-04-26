@@ -1,3 +1,6 @@
+**THIS IS A CUSTOM MADE VERSION OF HYDRA's DISCORD.JS **
+**PEER DEP ARE REPLACING WUTH OPTIONNAL DEP**
+
 <div align="center">
   <br />
   <p>
